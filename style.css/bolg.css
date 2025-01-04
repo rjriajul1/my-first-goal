@@ -29,3 +29,14 @@ h3{
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
 }
+img{
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 60%;
+    height: 150px;
+    position: relative;
+    left: 45%;
+    top: 20px;
+   
+   
+}
